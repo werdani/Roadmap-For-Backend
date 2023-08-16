@@ -5,5 +5,5 @@ That is a roadmap to becoming a backend developer
 
 ## 2- What is a programming language : [YouTube Video](https://www.youtube.com/watch?v=EGQh5SZctaE)
 
-## 3- What is Editor : [YouTube Video]([https://www.youtube.com/watch?v=EGQh5SZctaE](https://www.youtube.com/watch?v=EQ5Rc4DFp4M)https://www.youtube.com/watch?v=EQ5Rc4DFp4M)
+## 3- What is Editor : [YouTube Video](https://www.youtube.com/watch?v=EQ5Rc4DFp4M)
 
