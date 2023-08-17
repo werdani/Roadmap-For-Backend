@@ -5,5 +5,5 @@
 
 ## 2- What is a programming language : [YouTube Video](https://www.youtube.com/watch?v=EGQh5SZctaE) OR [Read from medium](https://posco.medium.com/what-is-a-programming-language-community-and-what-does-it-value-faa5b84c065a)
 
-## 3- What is Editor : [YouTube Video](https://www.youtube.com/watch?v=EQ5Rc4DFp4M) OR [Read from geeksforgeeks] (https://www.geeksforgeeks.org/editors-types-system-programming/)
+## 3- What is Editor : [YouTube Video](https://www.youtube.com/watch?v=EQ5Rc4DFp4M) OR [Read from geeksforgeeks](https://www.geeksforgeeks.org/editors-types-system-programming/)
 
