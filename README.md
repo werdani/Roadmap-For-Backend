@@ -10,4 +10,4 @@
 
 ## 4- What is HTTP : [YouTube Video](https://www.youtube.com/watch?v=wW2A5SZ3GkI) OR [Read from medium](https://medium.com/@ahmadfarag/http-in-depth-dfdac806c2c0)
 
-## 5- Browser how it works : 
+## 5- Browser how it works : [YouTube Video](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
