@@ -33,7 +33,7 @@
 ## 5- Browser how it works : 
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
-  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=cTrN1OAMYkM)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=OrFldZVa8Go)
 - Articles
    - Browser how it works [Read from medium](https://medium.com/@pdster/how-web-browsers-work-6385b9374375)
 
