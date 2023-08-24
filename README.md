@@ -9,7 +9,12 @@
 - Articles
   - How Does The Internet Work : [Read from medium](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8)
 
-## 2- What is a programming language : [YouTube Video](https://www.youtube.com/watch?v=EGQh5SZctaE) OR [Read from medium](https://posco.medium.com/what-is-a-programming-language-community-and-what-does-it-value-faa5b84c065a)
+## 2- What is a programming language :
+- Videos
+  - English : [YouTube Video](https://www.youtube.com/watch?v=EGQh5SZctaE)
+  - Arabic  :
+- Articles
+  -  What is a programming language : [Read from medium](https://posco.medium.com/what-is-a-programming-language-community-and-what-does-it-value-faa5b84c065a)
 
 ## 3- What is Editor : [YouTube Video](https://www.youtube.com/watch?v=EQ5Rc4DFp4M) OR [Read from geeksforgeeks](https://www.geeksforgeeks.org/editors-types-system-programming/)
 ## 4- What is HTTP : [YouTube Video](https://www.youtube.com/watch?v=wW2A5SZ3GkI) OR [Read from medium](https://medium.com/@ahmadfarag/http-in-depth-dfdac806c2c0)
