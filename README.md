@@ -5,14 +5,14 @@
 ## 1- How does the internet work : 
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-  - Arabic  : [YouTube Video](https://www.youtube.com/watch?v=99yxGabo-XE)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=99yxGabo-XE)
 - Articles
   - How Does The Internet Work : [Read from medium](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8)
 
 ## 2- What is a programming language :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=EGQh5SZctaE)
-  - Arabic  :
+  - Arabic &nbsp;:
 - Articles
   -  What is a programming language : [Read from medium](https://posco.medium.com/what-is-a-programming-language-community-and-what-does-it-value-faa5b84c065a)
 
