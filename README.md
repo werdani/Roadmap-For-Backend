@@ -12,7 +12,7 @@
 ## 2- What is a programming language :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=EGQh5SZctaE)
-  - Arabic &nbsp;:
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=VPtapGzSScU&t=1129s)
 - Articles
   -  What is a programming language : [Read from medium](https://posco.medium.com/what-is-a-programming-language-community-and-what-does-it-value-faa5b84c065a)
 
