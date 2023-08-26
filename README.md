@@ -68,10 +68,10 @@
    - What is Domain Name [Read from medium](https://mayankavasthi.medium.com/what-is-a-domain-name-and-web-hosting-4dd89d6304e)
 ## 8- What is hosting :
 - Videos
-  - English : [YouTube Video](#)
-  - Arabic &nbsp;: [YouTube Video](#)
+  - English : [YouTube Video](https://www.youtube.com/watch?v=d_pEqS9Ynxc)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=GFwcrCQukHU)
 - Articles
-   - What is Domain Name [Read from medium](#)
+   - What is hosting [Read from medium](https://medium.com/@singularbean/what-is-web-hosting-9f30c43bf123)
 
 
 
