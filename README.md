@@ -15,7 +15,11 @@
      - HTML
      - CSS3
      - JavaScript
-- [Usage](#usage)
+- [You should know this before learning the backend language](#You-should-know-this-before-learning-the-backend-language)
+     - How do operating systems work
+     - What is terminal
+     - CMD commands you should know
+
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -78,4 +82,5 @@
 - Articles
    - What is hosting [Read from medium](https://medium.com/@singularbean/what-is-web-hosting-9f30c43bf123)
 ## You should know some about frontend  
+## You should know this before learning the backend language
 
