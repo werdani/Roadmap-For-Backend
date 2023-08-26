@@ -15,13 +15,9 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-<div align="center">
-  <a href="#page-1"><strong>Page 1</strong></a> |
-  <a href="#page-2">Page 2</a> |
-  <a href="#page-3">Page 3</a>
-</div>
 
-# Page 1: What is the Environment that I Work In
+
+## What is the Environment that I Work In
 
 ## 1- How does the internet work :
 - Videos
@@ -78,14 +74,4 @@
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=GFwcrCQukHU)
 - Articles
    - What is hosting [Read from medium](https://medium.com/@singularbean/what-is-web-hosting-9f30c43bf123)
-
-
-
-<div align="center">
-  <a href="#page-1"><strong>Page 1</strong></a> |
-  <a href="#page-2">Page 2</a> |
-  <a href="#page-3">Page 3</a>
-</div>
-
-
 
