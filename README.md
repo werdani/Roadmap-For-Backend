@@ -9,7 +9,7 @@
 - [License](#license)
 
 ## What is the Environment that I Work In
-- How does the internet work
+## 1- How does the internet work :
 - Videos
   - English: [YouTube Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)
   - Arabic: [YouTube Video](https://www.youtube.com/watch?v=99yxGabo-XE)
