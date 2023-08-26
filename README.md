@@ -44,6 +44,12 @@
 - Articles
    - DNS and how it works [Read from medium](https://medium.com/basic-command-ls-linux/how-dns-works-b49c7395c91e)
 
+## 7- What is Domain Name :
+- Videos
+  - English : [YouTube Video](#)
+  - Arabic &nbsp;: [YouTube Video](#)
+- Articles
+   - What is Domain Name [Read from medium](#)
 
 
 
