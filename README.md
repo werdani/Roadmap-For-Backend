@@ -49,7 +49,7 @@
   - English : [YouTube Video](https://www.youtube.com/watch?v=Y4cRx19nhJk)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=Nqc-k6GwgKI)
 - Articles
-   - What is Domain Name [Read from medium](#)
+   - What is Domain Name [Read from medium](https://mayankavasthi.medium.com/what-is-a-domain-name-and-web-hosting-4dd89d6304e)
 
 
 
