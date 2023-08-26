@@ -76,4 +76,19 @@
 
 
 
+<div align="center">
+  <a href="#page-1">Page 1</a> |
+  <strong>Page 2</strong> |
+  <a href="#page-3">Page 3</a>
+</div>
+
+<!-- Your content for page 2 goes here -->
+
+<div align="center">
+  <a href="#page-1">Page 1</a> |
+  <a href="#page-2">Page 2</a> |
+  <strong>Page 3</strong>
+</div>
+
+
 
