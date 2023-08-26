@@ -20,7 +20,14 @@
      - What is terminal
      - CMD commands you should know
 
-- [Contributing](#contributing)
+- [Learn a programming language and her framework](#Learn-a-programming-language-and-her-framework)
+     - Python (Django)
+     - PHP (Laravel)
+     - Javascript (Node.js)
+     - Java (Spring)
+     - Rubu (Roda)
+     - C# (.Net)
+
 - [License](#license)
 
 
@@ -83,4 +90,5 @@
    - What is hosting [Read from medium](https://medium.com/@singularbean/what-is-web-hosting-9f30c43bf123)
 ## You should know some about frontend  
 ## You should know this before learning the backend language
+## Learn a programming language and her framework
 
