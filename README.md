@@ -3,9 +3,14 @@
 
 # Table of Contents
 - [What is the Environment that I Work In](#what-is-the-environment-that-i-work-in)
-     - one
-     - two
-     - ther
+     - How does the internet work
+     - What is a programming language
+     - What is Editor
+     - What is HTTP
+     - Browser how it works
+     - DNS and how it works
+     - What is a Domain Name
+     - What is hosting 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
