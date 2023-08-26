@@ -28,6 +28,12 @@
      - Rubu (Roda)
      - C# (.Net)
 
+- [After that, you should add your projects on GitHub](#After-that,-you-should-add-your-projects-on-GitHub)
+     - What is Gitbub
+     - What is Git
+     - Learn Git
+
+- [License](#license)
 - [License](#license)
 
 
@@ -91,4 +97,5 @@
 ## You should know some about frontend  
 ## You should know this before learning the backend language
 ## Learn a programming language and her framework
+## After that, you should add your projects on GitHub
 
