@@ -8,7 +8,6 @@
 - [License](#license)
 
 ##[1- What is the environment that I work in](#What-is-the-environment-that-I-work-in)
-
 - How does the internet work
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)
