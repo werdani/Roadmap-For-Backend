@@ -98,10 +98,22 @@
 ### 1- HTML :
 - Videos
   - English: [YouTube Video](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-  - Arabic: [YouTube Video](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 - Articles
   - learn HTML: [Read from w3schools](https://www.w3schools.com/html/)
+### 2- CSS :
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=OXGznpKZ_sA&pp=ygUKY291cnNlIGNzcw%3D%3D)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+- Articles
+  - learn CSS: [Read from w3schools](https://www.w3schools.com/css/)
 
+### 2- Javascript :
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s&pp=ygUJY291cnNlIGpz)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=eKuNnpWhm7c&list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh)
+- Articles
+  - learn CSS: [Read from w3schools](https://www.w3schools.com/js/)
 
 ## You should know this before learning the backend language
 ## Learn a programming language and her framework
