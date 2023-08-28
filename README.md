@@ -116,6 +116,28 @@
   - learn CSS: [Read from w3schools](https://www.w3schools.com/js/)
 
 ## You should know this before learning the backend language
+### 1- How do operating systems work
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=GjNp0bBrjmU)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=yNM78IaK1YM)
+- Articles
+  - How to do operating systems work: [Read from medium](https://medium.com/@demozeik/introduction-to-operating-system-3274f0ff947d)
+  - 
+### 2- What is terminal
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=AbjJDAiNYXs)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=CH6zJh4spyM)
+- Articles
+  - What is terminal : [Read from medium](https://medium.com/front-end-weekly/a-quick-guide-to-use-command-line-terminal-ac52c2c442df)
+
+### 3- CMD commands you should know
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=MBBWVgE0ewk&list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=JVs2Ywy7wGQ&list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
+- Articles
+  - CMD commands : [Read from medium](https://medium.com/@jainaakansha28/20-cmd-commands-all-windows-users-should-know-2addbea24a3)
+
+ 
 ## Learn a programming language and her framework
 ## After that you should add your projects on GitHub
 ### 1- What is Gitbub
