@@ -28,7 +28,7 @@
      - Rubu (Roda)
      - C# (.Net)
 
-- [After that, you should add your projects on GitHub](#After-that,-you-should-add-your-projects-on-GitHub)
+- [After that you should add your projects on GitHub](#After-that-you-should-add-your-projects-on-GitHub)
      - What is Gitbub
      - What is Git
      - Learn Git
@@ -117,7 +117,7 @@
 
 ## You should know this before learning the backend language
 ## Learn a programming language and her framework
-## After that, you should add your projects on GitHub
+## After that you should add your projects on GitHub
 ### 1- What is Gitbub
 - Videos
   - English: [YouTube Video](https://www.youtube.com/watch?v=pBy1zgt0XPc)
