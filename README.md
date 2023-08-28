@@ -118,4 +118,22 @@
 ## You should know this before learning the backend language
 ## Learn a programming language and her framework
 ## After that, you should add your projects on GitHub
+### 1- What is Gitbub
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=PsXDzwBW2Ls)
+- Articles
+  - What is Gitbub : [Read from medium](https://medium.com/swlh/what-is-github-423f9049ab2d)
+### 2- What is Git
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=wpISo9TNjfU)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=6apoMnNoPWk)
+- Articles
+  - What is Git: [Read from medium](https://medium.com/free-code-camp/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
+### 3- Learn Git
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=8JJ101D3knE&pp=ygUJTGVhcm4gR2l0)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=6143s&pp=ygUPV2hhdCBJcyBHaXRIdWI_)
+- Articles
+  - Learn Git: [Read from medium](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
 
