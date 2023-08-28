@@ -42,7 +42,7 @@
 ### 1- How does the internet work :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-  - Arabic: [YouTube Video](https://www.youtube.com/watch?v=99yxGabo-XE)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=99yxGabo-XE)
 - Articles
   - How Does The Internet Work: [Read from Medium](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8)
 
