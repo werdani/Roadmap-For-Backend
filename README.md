@@ -139,6 +139,23 @@
 
  
 ## Learn a programming language and her framework
+### 1- Python and framework(Django)
+#### - Python
+- Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc&pp=ygUNY291cnNlIHB5dGhvbg%3D%3D)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+- Articles
+  - Learn Python: [Read from w3schools](https://www.w3schools.com/python/)
+
+ #### - Django Framework
+ - Videos
+  - English: [YouTube Video](https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=3s&pp=ygUNY291cnNlIGRqYW5nbw%3D%3D)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=gEWJD-OzuiE&list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
+- Articles
+  - Learn Django Framework: [Read from w3schools](https://www.w3schools.com/django/)
+
+
+
 ## After that you should add your projects on GitHub
 ### 1- What is Gitbub
 - Videos
