@@ -173,7 +173,9 @@
   - From ITI : [ITI](https://drive.google.com/drive/folders/1lBvgtepad-_VMtnOldq1pYw-_gp_GaMp?usp=drive_link) 
 
 - Articles
+  - Documentation : [Read from documentation](https://docs.python.org/3/tutorial/index.html)
   - Learn Python: [Read from w3schools](https://www.w3schools.com/python/)
+  - paper : [Read from programiz](https://www.programiz.com/python-programming/first-program)
 
  #### - Django Framework
  - Videos
@@ -181,7 +183,9 @@
    - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=gEWJD-OzuiE&list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
    - From ITI : [ITI](https://drive.google.com/drive/folders/16vBLOjrPoARn7aHHxu2vRPmjP7M4mHyx?usp=drive_link) 
 - Articles
-  - Learn Django Framework: [Read from w3schools](https://www.w3schools.com/django/)
+  - Documentation : [Read from documentation](https://docs.djangoproject.com/en/4.2/)
+  - Learn Django Framework : [Read from w3schools](https://www.w3schools.com/django/)
+  - paper : [I love django](https://ilovedjango.com/django/)
 
 ### 2- PHP and framework(Laravel)
 #### - PHP
