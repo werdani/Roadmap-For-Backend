@@ -154,6 +154,17 @@
 - Articles
   - Learn Django Framework: [Read from w3schools](https://www.w3schools.com/django/)
 
+### 2- PHP and framework(Laravel)
+#### - PHP
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+  - From iti : [ITI]() 
+- Articles
+  - Learn Python: [Read from w3schools](https://www.w3schools.com/php/)
+
+#### - Laravel Framework
+
 
 
 ## After that you should add your projects on GitHub
