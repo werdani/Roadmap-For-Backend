@@ -142,32 +142,35 @@
 ### 1- Python and framework(Django)
 #### - Python
 - Videos
-  - English : [YouTube Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc&pp=ygUNY291cnNlIHB5dGhvbg%3D%3D)
-  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc&pp=ygUNY291cnNlIHB5dGhvbg%3D%3D)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+  - From ITI : [ITI](https://drive.google.com/drive/folders/1lBvgtepad-_VMtnOldq1pYw-_gp_GaMp?usp=drive_link) 
+
 - Articles
   - Learn Python: [Read from w3schools](https://www.w3schools.com/python/)
 
  #### - Django Framework
  - Videos
-  - English : [YouTube Video](https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=3s&pp=ygUNY291cnNlIGRqYW5nbw%3D%3D)
-  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=gEWJD-OzuiE&list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=3s&pp=ygUNY291cnNlIGRqYW5nbw%3D%3D)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=gEWJD-OzuiE&list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
+  - From ITI : [ITI](https://drive.google.com/drive/folders/16vBLOjrPoARn7aHHxu2vRPmjP7M4mHyx?usp=drive_link) 
 - Articles
   - Learn Django Framework: [Read from w3schools](https://www.w3schools.com/django/)
 
 ### 2- PHP and framework(Laravel)
 #### - PHP
 - Videos
-  - English &nbsp;: [YouTube Video]()
-  - Arabic &nbsp;&nbsp;: [YouTube Video]()
-  - From ITI : [ITI]() 
+  - English &nbsp;&nbsp;: [YouTube Video]()
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  - From ITI : [ITI](https://drive.google.com/drive/folders/1w_LLMbY3LTiqJOgTjzAFHvuRnVXZEG5v?usp=drive_link) 
 - Articles
   - Learn PHP : [Read from w3schools](https://www.w3schools.com/php/)
 
 #### - Laravel Framework
 - Videos
-  - English &nbsp;: [YouTube Video]()
-  - Arabic &nbsp;&nbsp;: [YouTube Video]()
-  - From ITI : [ITI]() 
+  - English &nbsp;&nbsp;: [YouTube Video]()
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  - From ITI : [ITI](https://drive.google.com/drive/folders/17j1RpK9gVqk1_cE2a2HIu3QcQymxX_k9?usp=drive_link) 
 - Articles
   - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.in/laravel)
 
