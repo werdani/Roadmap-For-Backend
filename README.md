@@ -157,13 +157,20 @@
 ### 2- PHP and framework(Laravel)
 #### - PHP
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
-  - From iti : [ITI]() 
+  - English &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;&nbsp;: [YouTube Video]()
+  - From ITI : [ITI]() 
 - Articles
-  - Learn Python: [Read from w3schools](https://www.w3schools.com/php/)
+  - Learn PHP : [Read from w3schools](https://www.w3schools.com/php/)
 
 #### - Laravel Framework
+- Videos
+  - English &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;&nbsp;: [YouTube Video]()
+  - From ITI : [ITI]() 
+- Articles
+  - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.in/laravel)
+
 
 
 
