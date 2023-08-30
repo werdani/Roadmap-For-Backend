@@ -33,8 +33,34 @@
      - What is Git
      - Learn Git
 
-- [License](#license)
-- [License](#license)
+- [Take a look at these](#Take-a-look-at-these-and-back-again-after-learning-about-database)
+     - What is REST API
+     - What is SOAP
+     - ACID database meaning
+     - What is an ORM
+     - What is a database transaction
+     - N+1 selects problem in ORM
+     - What is Database Normalization
+     - What is Data Replication
+     - How Sharding Works
+     - What is the CAP theorem
+
+- [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
+     - Relational Database
+          - MySQL
+          - MariaDB
+          - Postgre SQL
+          - MS SQL
+          - Oracle
+       
+     - NoSQL Database
+
+          - MongoDB
+          - RethinkDB
+          - CouchDB
+          - DynamoDB
+
+
 
 
 ## What is the work environment in which you work 
@@ -196,4 +222,8 @@
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=6143s&pp=ygUPV2hhdCBJcyBHaXRIdWI_)
 - Articles
   - Learn Git: [Read from medium](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
+ 
+## Take a look at these and back again after learning about database
+
+## You should know Database and the differences it
 
