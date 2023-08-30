@@ -151,9 +151,9 @@
 
  #### - Django Framework
  - Videos
-  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=3s&pp=ygUNY291cnNlIGRqYW5nbw%3D%3D)
-  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=gEWJD-OzuiE&list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
-  - From ITI : [ITI](https://drive.google.com/drive/folders/16vBLOjrPoARn7aHHxu2vRPmjP7M4mHyx?usp=drive_link) 
+   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=3s&pp=ygUNY291cnNlIGRqYW5nbw%3D%3D)
+   - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=gEWJD-OzuiE&list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
+   - From ITI : [ITI](https://drive.google.com/drive/folders/16vBLOjrPoARn7aHHxu2vRPmjP7M4mHyx?usp=drive_link) 
 - Articles
   - Learn Django Framework: [Read from w3schools](https://www.w3schools.com/django/)
 
