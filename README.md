@@ -160,16 +160,16 @@
 ### 2- PHP and framework(Laravel)
 #### - PHP
 - Videos
-  - English &nbsp;&nbsp;: [YouTube Video]()
-  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=m52ljs78S24&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
   - From ITI : [ITI](https://drive.google.com/drive/folders/1w_LLMbY3LTiqJOgTjzAFHvuRnVXZEG5v?usp=drive_link) 
 - Articles
   - Learn PHP : [Read from w3schools](https://www.w3schools.com/php/)
 
 #### - Laravel Framework
 - Videos
-  - English &nbsp;&nbsp;: [YouTube Video]()
-  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=OB8jBvu8N34&list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=bXjRQM_VK_I&list=PLDoPjvoNmBAy_mAhY0x8cHf8oSGPKsEKP)
   - From ITI : [ITI](https://drive.google.com/drive/folders/17j1RpK9gVqk1_cE2a2HIu3QcQymxX_k9?usp=drive_link) 
 - Articles
   - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.in/laravel)
