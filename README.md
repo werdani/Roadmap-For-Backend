@@ -205,6 +205,13 @@
   - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.in/laravel)
 ### 3- Javascript and framework(Node.js)
 #### - Javascript
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video]()
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  - From ITI : [ITI]() 
+- Articles
+  - Learn Laravel Framework : [Read from w3schools]()
+
 #### - Node.js Framework 
 
 ### 4- Java and framework(Spring)
