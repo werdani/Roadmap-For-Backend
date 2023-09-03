@@ -3,35 +3,35 @@
 
 # Table of Contents
 - [What is the work environment in which you work ](#What-is-the-work-environment-in-which-you-work)
-     - How does the internet work
-     - What is a programming language
-     - What is Editor
-     - What is HTTP
-     - Browser how it works
-     - DNS and how it works
-     - What is a Domain Name
-     - What is hosting 
+     - [x] How does the internet work
+     - [x] What is a programming language
+     - [x] What is Editor
+     - [x] What is HTTP
+     - [x] Browser how it works
+     - [x] DNS and how it works
+     - [x] What is a Domain Name
+     - [x] What is hosting 
 - [You should know some about frontend ](#You-should-know-some-about-frontend )
-     - HTML
-     - CSS3
-     - JavaScript
+     - [x] HTML
+     - [x] CSS3
+     - [x] JavaScript
 - [You should know this before learning the backend language](#You-should-know-this-before-learning-the-backend-language)
-     - How do operating systems work
-     - What is terminal
-     - CMD commands you should know
+     - [x] How do operating systems work
+     - [x] What is terminal
+     - [x] CMD commands you should know
 
 - [Learn a programming language and her framework](#Learn-a-programming-language-and-her-framework)
-     - Python (Django)
-     - PHP (Laravel)
-     - Javascript (Node.js)
-     - Java (Spring)
-     - Ruby (Roda)
-     - C# (.Net)
+     - [x] Python (Django)
+     - [x] PHP (Laravel)
+     -  Javascript (Node.js)
+     -  Java (Spring)
+     -  Ruby (Roda)
+     -  C# (.Net)
 
 - [After that you should add your projects on GitHub](#After-that-you-should-add-your-projects-on-GitHub)
-     - What is Gitbub
-     - What is Git
-     - Learn Git
+     - [x] What is Gitbub
+     - [x] What is Git
+     - [x] Learn Git
 
 - [Take a look at these and back again after learning about database](#Take-a-look-at-these-and-back-again-after-learning-about-database)
      - What is REST API
