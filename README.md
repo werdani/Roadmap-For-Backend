@@ -59,7 +59,13 @@
           - RethinkDB
           - CouchDB
           - DynamoDB
-
+            
+- [Take a look at these](#Take-a-look-at-these)
+   - Authentication
+   - GraphQl
+   - HTTPS
+   - SSL\TLS
+   - Hashing Algorithm
 
 
 
