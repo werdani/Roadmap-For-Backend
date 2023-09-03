@@ -33,7 +33,7 @@
      - What is Git
      - Learn Git
 
-- [Take a look at these](#Take-a-look-at-these-and-back-again-after-learning-about-database)
+- [Take a look at these and back again after learning about database](#Take-a-look-at-these-and-back-again-after-learning-about-database)
      - What is REST API
      - What is SOAP
      - ACID database meaning
