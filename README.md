@@ -22,7 +22,7 @@
 
 - [Learn a programming language and her framework](#Learn-a-programming-language-and-her-framework)
      - [x] Python (Django)
-     - [x] PHP (Laravel)
+     - [ ] PHP (Laravel)
      -  Javascript (Node.js)
      -  Java (Spring)
      -  Ruby (Roda)
