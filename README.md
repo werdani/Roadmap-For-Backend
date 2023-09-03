@@ -69,7 +69,7 @@
 
 
 
-<h2>- [x] What is the work environment in which you work?</h2>
+- [x] What is the work environment in which you work?
 
 ### 1- How does the internet work :
 - Videos
