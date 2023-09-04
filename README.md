@@ -265,6 +265,76 @@
   - Learn Git: [Read from medium](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
  
 ## Take a look at these and back again after learning about database
+### 1- What is REST API
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - What is REST API: [Read from medium]()
+    
+### 2- What is SOAP
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - What is SOAP: [Read from medium]()
+    
+### 3- ACID database meaning
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - ACID database meaning: [Read from medium]()
+    
+### 4- What is an ORM
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - What is an ORM: [Read from medium]()
+    
+### 5- What is a database transaction
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - What is a database transaction: [Read from medium]()
+    
+### 6- N+1 selects problem in ORM
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - N+1 selects problem in ORM: [Read from medium]()
+    
+### 7- What is Database Normalization
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  -  What is Database Normalization: [Read from medium]()
+  
+### 8- What is Data Replication
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - What is Data Replication: [Read from medium]()
+  
+### 9- How Sharding Works
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - How Sharding Works: [Read from medium]()
+  
+### 10- What is the CAP theorem
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - What is the CAP theorem: [Read from medium]()
+  
 
 ## You should know Database and the differences it
 
