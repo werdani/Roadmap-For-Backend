@@ -66,6 +66,12 @@
    - HTTPS
    - SSL\TLS
    - Hashing Algorithm
+- [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
+
+  - Integration Testing 
+  - Unit Testing
+  -  Functional Testing
+
 
 ## What is the work environment in which you work?
 
@@ -263,4 +269,6 @@
 ## You should know Database and the differences it
 
 ## Take a look at these
+
+## The final step after making all the steps you should make testing
 
