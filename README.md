@@ -35,7 +35,7 @@
 
 - [Take a look at these and back again after learning about database](#Take-a-look-at-these-and-back-again-after-learning-about-database)
      - [x] What is REST API
-     - What is SOAP
+     - [x] What is SOAP
      - ACID database meaning
      - What is an ORM
      - What is a database transaction
@@ -274,10 +274,10 @@
     
 ### 2- What is SOAP
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=it8ybkQuAh8)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=tGl4IqBOYaY)
 - Articles
-  - What is SOAP: [Read from medium]()
+  - What is SOAP: [Read from medium](https://medium.com/geekculture/understanding-soap-and-restful-web-services-a27ddcd4c3df)
     
 ### 3- ACID database meaning
 - Videos
