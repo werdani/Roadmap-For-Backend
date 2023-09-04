@@ -34,7 +34,7 @@
      - [x] Learn Git
 
 - [Take a look at these and back again after learning about database](#Take-a-look-at-these-and-back-again-after-learning-about-database)
-     - What is REST API
+     - [x] What is REST API
      - What is SOAP
      - ACID database meaning
      - What is an ORM
@@ -267,10 +267,10 @@
 ## Take a look at these and back again after learning about database
 ### 1- What is REST API
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=7dqpR70OfGw&t=14s)
 - Articles
-  - What is REST API: [Read from medium]()
+  - What is REST API: [Read from medium](https://medium.com/@shifrb/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f)
     
 ### 2- What is SOAP
 - Videos
