@@ -23,7 +23,7 @@
 - [Learn a programming language and her framework](#Learn-a-programming-language-and-her-framework)
      - [x] Python (Django)
      - [ ] PHP (Laravel)
-     -  Javascript (Node.js)
+     - [ ] Javascript (Node.js)
      -  Java (Spring)
      -  Ruby (Roda)
      -  C# (.Net)
@@ -210,13 +210,19 @@
 ### 3- Javascript and framework(Node.js)
 #### - Javascript
 - Videos
-  - English &nbsp;&nbsp;: [YouTube Video]()
-  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
-  - From ITI : [ITI]() 
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=jS4aFq5-91M&pp=ygUJY291cnNlIGpz)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=PWuTLTFMtYw&list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE)
+  - From ITI : [ITI](https://drive.google.com/drive/folders/1a95SaFqlWd3Ojx9rWm-qprD6NaX22SGb?usp=drive_link) 
 - Articles
-  - Learn Laravel Framework : [Read from w3schools]()
+  - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.com/js/)
 
 #### - Node.js Framework 
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=Oe421EPjeBE&pp=ygUOY291cnNlIG5vZGUganM%3D)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=xqpxxFM5jEk&list=PLqPejUavRNTUZUdVd91NRrD-dz6jrbPFL)
+  - From ITI : [ITI](https://drive.google.com/drive/folders/10Aa4eEfu7kVDcm5tV79xYDGDkpcQ9ltj?usp=drive_link) 
+- Articles
+  - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.com/nodejs/)
 
 ### 4- Java and framework(Spring)
 #### - Java
