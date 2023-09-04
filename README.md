@@ -36,7 +36,7 @@
 - [Take a look at these and back again after learning about database](#Take-a-look-at-these-and-back-again-after-learning-about-database)
      - [x] What is REST API
      - [x] What is SOAP
-     - ACID database meaning
+     - [x] ACID database meaning
      - What is an ORM
      - What is a database transaction
      - N+1 selects problem in ORM
@@ -281,10 +281,10 @@
     
 ### 3- ACID database meaning
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=pomxJOFVcQs)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=ZmwrnN73m5s)
 - Articles
-  - ACID database meaning: [Read from medium]()
+  - ACID database meaning: [Read from medium](https://intuting.medium.com/acid-database-properties-6bc2b049ed2d)
     
 ### 4- What is an ORM
 - Videos
