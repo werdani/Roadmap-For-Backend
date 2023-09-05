@@ -339,6 +339,11 @@
 ## You should know Database and the differences it
 
 ## Take a look at these
+### 1- Authentication
+### 2- GraphQl
+### 3- HTTPS
+### 4- SSL\TLS
+### 5- Hashing Algorithm
 
 ## The final step after making all the steps you should make testing
 ### 1- Integration Testing
