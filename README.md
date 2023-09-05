@@ -337,6 +337,18 @@
   
 
 ## You should know Database and the differences it
+### 1- Relational Database
+<p>
+     A relational database is a type of database that stores and provides access to data points that are related to one another. Relational databases are based on the relational model, an intuitive,      
+     straightforward way of representing data in tables. In a relational database, each row in the table is a record with a unique ID called the key. The columns of the table hold attributes of the data, and 
+     each record usually has a value for each attribute, making it easy to establish the relationships among data points.
+</p>
+
+### 2- Non-Relational Database(NoSQL) 
+<p>
+     Non-relational databases (often called NoSQL databases) are different from traditional relational databases in that they store their data in a non-tabular form. Instead, non-relational databases might be        based on data structures like documents. A document can be highly detailed while containing a range of different types of information in different formats. This ability to digest and organize various types 
+     of information side by side makes non-relational databases much more flexible than relational databases.
+</p>
 
 ## Take a look at these
 ### 1- Authentication
