@@ -68,9 +68,9 @@
    - Hashing Algorithm
 - [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
 
-  - Integration Testing 
-  - Unit Testing
-  -  Functional Testing
+  - [x] Integration Testing 
+  - [x] Unit Testing
+  - [x] Functional Testing
 
 
 ## What is the work environment in which you work?
@@ -341,4 +341,23 @@
 ## Take a look at these
 
 ## The final step after making all the steps you should make testing
-
+### 1- Integration Testing
+- Videos
+  - English : [YouTube Video](https://www.youtube.com/watch?v=8UfQ8quw0Eg)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=D0PqgXsBX5g&list=PLQUxWr2rTswl1D4f8Tkw3RvCD-ZB6LpgJ)
+- Articles
+  - Integration Testing: [Read from medium](https://medium.com/@allenliuzihao/automated-integration-testing-a295d21e513a)
+    
+### 2- Unit Testing
+- Videos
+  - English : [YouTube Video](https://www.youtube.com/watch?v=iWtxEDE1IR4)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=B9rLLcVQfpI&t=190s)
+- Articles
+  - Unit Testing: [Read from medium](https://medium.com/android-news/basics-of-unit-testing-affdd2273310)
+    
+### 3- Functional Testing
+- Videos
+  - English : [YouTube Video](https://www.youtube.com/watch?v=10GMNDOjpYU)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=fk3sL-VDrCI&list=PLQUxWr2rTswl1D4f8Tkw3RvCD-ZB6LpgJ&index=13)
+- Articles
+  - Functional Testing: [Read from medium](https://medium.com/edureka/functional-testing-vs-non-functional-testing-a08bc732fbdd)
