@@ -61,7 +61,7 @@
           - DynamoDB
             
 - [Take a look at these](#Take-a-look-at-these)
-   - Authentication
+   - [x] Authentication
    - GraphQl
    - HTTPS
    - SSL\TLS
@@ -353,10 +353,10 @@
 ## Take a look at these
 ### 1- Authentication
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=2PPSXonhIck)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=WEoGhVhuzDU)
 - Articles
-  - Authentication: [Read from medium]()
+  - Authentication: [Read from medium](https://medium.com/@itsmeakhil/understanding-about-web-authentication-methods-ccae46734108)
     
 ### 2- GraphQl
 - Videos
