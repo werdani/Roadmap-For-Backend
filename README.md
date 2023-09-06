@@ -352,10 +352,39 @@
 
 ## Take a look at these
 ### 1- Authentication
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - Authentication: [Read from medium]()
+    
 ### 2- GraphQl
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - GraphQl: [Read from medium]()
+    
 ### 3- HTTPS
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - HTTPS: [Read from medium]()
+    
 ### 4- SSL\TLS
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - SSL\TLS: [Read from medium]()
+    
 ### 5- Hashing Algorithm
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - Hashing Algorithm: [Read from medium]()
 
 ## The final step after making all the steps you should make testing
 ### 1- Integration Testing
