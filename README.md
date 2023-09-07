@@ -46,14 +46,14 @@
      - What is the CAP theorem
 
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
-     - Relational Database
+     - [x] Relational Database
           - MySQL
           - MariaDB
           - Postgre SQL
           - MS SQL
           - Oracle
        
-     - NoSQL Database
+     - [x] NoSQL Database
 
           - MongoDB
           - RethinkDB
