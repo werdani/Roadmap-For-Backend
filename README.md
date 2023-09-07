@@ -62,7 +62,7 @@
             
 - [Take a look at these](#Take-a-look-at-these)
    - [x] Authentication
-   - GraphQl
+   - [x] GraphQl
    - HTTPS
    - SSL\TLS
    - Hashing Algorithm
