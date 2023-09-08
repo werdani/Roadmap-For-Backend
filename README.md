@@ -367,8 +367,8 @@
     
 ### 3- HTTPS
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=hExRDVZHhig)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=qEUBlIKHj_M&t=16s)
 - Articles
   - HTTPS: [Read from medium](https://medium.com/swlh/how-http-and-https-work-4c689e1ea369)
     
