@@ -374,7 +374,7 @@
     
 ### 4- SSL\TLS
 - Videos
-  - English : [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=LJDsdSh1CYM)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=_rckaPRsD_0)
 - Articles
   - SSL\TLS: [Read from medium](https://medium.com/talpor/ssl-tls-authentication-explained-86f00064280)
