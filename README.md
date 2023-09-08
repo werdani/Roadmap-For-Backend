@@ -64,7 +64,7 @@
    - [x] Authentication
    - [x] GraphQl
    - [x] HTTPS
-   - SSL\TLS
+   - [x] SSL\TLS
    - [x] Hashing Algorithm
 - [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
 
