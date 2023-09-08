@@ -43,7 +43,7 @@
      - What is Database Normalization
      - What is Data Replication
      - How Sharding Works
-     - What is the CAP theorem
+     - [x] What is the CAP theorem
 
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
      - [x] Relational Database
@@ -330,10 +330,10 @@
   
 ### 10- What is the CAP theorem
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=eWMgsk7mpFc)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=RpqqX6mkSNQ)
 - Articles
-  - What is the CAP theorem: [Read from medium]()
+  - What is the CAP theorem: [Read from medium](https://medium.com/cstech/the-cap-theorem-8b1b94b1586c)
   
 
 ## You should know Database and the differences it
