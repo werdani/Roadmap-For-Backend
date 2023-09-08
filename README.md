@@ -65,7 +65,7 @@
    - [x] GraphQl
    - [x] HTTPS
    - SSL\TLS
-   - Hashing Algorithm
+   - [x] Hashing Algorithm
 - [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
 
   - [x] Integration Testing 
@@ -381,10 +381,10 @@
     
 ### 5- Hashing Algorithm
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=ipljtD-ZdQ4)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=sJKRbBRZK9o)
 - Articles
-  - Hashing Algorithm: [Read from medium]()
+  - Hashing Algorithm: [Read from medium](https://medium.com/@isuruj/introduction-to-hashing-5b4daf343889)
 
 ## The final step after making all the steps you should make testing
 ### 1- Integration Testing
