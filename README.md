@@ -63,7 +63,7 @@
 - [Take a look at these](#Take-a-look-at-these)
    - [x] Authentication
    - [x] GraphQl
-   - HTTPS
+   - [x] HTTPS
    - SSL\TLS
    - Hashing Algorithm
 - [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
