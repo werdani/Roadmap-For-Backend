@@ -377,7 +377,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - SSL\TLS: [Read from medium]()
+  - SSL\TLS: [Read from medium](https://medium.com/talpor/ssl-tls-authentication-explained-86f00064280)
     
 ### 5- Hashing Algorithm
 - Videos
