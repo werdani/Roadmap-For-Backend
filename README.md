@@ -370,7 +370,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - HTTPS: [Read from medium]()
+  - HTTPS: [Read from medium](https://medium.com/swlh/how-http-and-https-work-4c689e1ea369)
     
 ### 4- SSL\TLS
 - Videos
