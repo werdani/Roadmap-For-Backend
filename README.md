@@ -42,7 +42,7 @@
      - N+1 selects problem in ORM
      - What is Database Normalization
      - What is Data Replication
-     - How Sharding Works
+     - [x] How Sharding Works
      - [x] What is the CAP theorem
 
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
