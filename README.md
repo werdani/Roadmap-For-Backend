@@ -324,7 +324,7 @@
 ### 9- How Sharding Works
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=XP98YCr-iXQ)
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=16hYum8fPrI)
 - Articles
   - How Sharding Works: [Read from medium](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
   
