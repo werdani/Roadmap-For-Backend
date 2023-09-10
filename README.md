@@ -326,7 +326,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - How Sharding Works: [Read from medium]()
+  - How Sharding Works: [Read from medium](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
   
 ### 10- What is the CAP theorem
 - Videos
