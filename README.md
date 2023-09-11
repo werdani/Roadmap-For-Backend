@@ -23,7 +23,7 @@
 - [Learn a programming language and her framework](#Learn-a-programming-language-and-her-framework)
      - [x] [Python (Django)](#1-Python-and-framework-Django)
      - [ ] [PHP (Laravel)](#2-PHP-and-framework-Laravel)
-     - [ ] [Javascript (Node.js)](#\3-Javascript-and-framework-Node.js)
+     - [ ] [Javascript (Node.js)](#\3-Javascript-and-framework-Nodedotjs)
      - [ ] [Java (Spring)](#4-Java-and-framework-Spring)
      -  [Ruby (Roda)](#5-Ruby-and-framework-Roda)
      -  [C# (.Net)](#6-C-sharp-and-framework-dotnet)
@@ -215,7 +215,7 @@
   - From ITI : [ITI](https://drive.google.com/drive/folders/17j1RpK9gVqk1_cE2a2HIu3QcQymxX_k9?usp=drive_link) 
 - Articles
   - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.in/laravel)
-### 3-Javascript and framework-Node.js
+### 3-Javascript and framework-Nodedotjs
 #### - Javascript
 - Videos
   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=jS4aFq5-91M&pp=ygUJY291cnNlIGpz)
