@@ -64,7 +64,7 @@
    - [x] [Authentication](#1-Authentication)
    - [x] [GraphQl](#2-GraphQl)
    - [x] [HTTPS](#3-HTTPS)
-   - [x] [SSL\TLS](#4-SSL\TLS)
+   - [x] [SSL\TLS](#4-SSL-TLS)
    - [x] [Hashing Algorithm](#5-Hashing-Algorithm)
 - [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
 
@@ -386,7 +386,7 @@
 - Articles
   - HTTPS: [Read from medium](https://medium.com/swlh/how-http-and-https-work-4c689e1ea369)
     
-### 4-SSL\TLS
+### 4-SSL-TLS
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=LJDsdSh1CYM)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=_rckaPRsD_0)
