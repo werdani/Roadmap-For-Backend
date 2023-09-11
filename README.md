@@ -231,20 +231,20 @@
   - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.com/nodejs/)
 
 ### 4- Java and framework(Spring)
-#### - Java
+#### - Java   
 - Videos
-  - English &nbsp;&nbsp;: [YouTube Video]()
-  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
-  - From ITI : [ITI]() 
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=aS__9RbCyHg)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)
+  - From ITI : [ITI](https://drive.google.com/drive/folders/14xNzi2KszSzsDOjRspyIEHO4Wn37z035?usp=drive_link) 
 - Articles
-  - Learn Java : [Read from w3schools]()
+  - Learn Java : [Read from w3schools](https://www.w3schools.com/java/)
 #### - Spring Framework
 - Videos
-  - English &nbsp;&nbsp;: [YouTube Video]()
-  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=VvGjZgqojMc)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=vSpB7FqL8Cs&list=PLMkr7X9JBPp4OlZCl0dzk8nXVb3Qygmeo)
   
 - Articles
-  - Learn Laravel Framework : [Read from w3schools]()
+  - Learn Spring Framework : [Read from tutorials point](https://www.tutorialspoint.com/spring_boot/index.htm)
 
 ### 5- Ruby and framework(Roda)
 #### - Ruby
