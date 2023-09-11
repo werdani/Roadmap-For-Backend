@@ -186,7 +186,9 @@
   - Documentation : [Read from documentation](https://docs.python.org/3/tutorial/index.html)
   - Learn Python: [Read from w3schools](https://www.w3schools.com/python/)
   - paper : [Read from programiz](https://www.programiz.com/python-programming/first-program)
-
+- Channels
+  - Discord : [Join US](https://discord.gg/sKJmKva8)
+    
  #### - Django Framework
  - Videos
    - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=3s&pp=ygUNY291cnNlIGRqYW5nbw%3D%3D)
