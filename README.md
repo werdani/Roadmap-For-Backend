@@ -3,47 +3,47 @@
 
 # Table of Contents
 - [What is the work environment in which you work ](#What-is-the-work-environment-in-which-you-work)
-     - [x] How does the internet work
-     - [x] What is a programming language
-     - [x] What is Editor
-     - [x] What is HTTP
-     - [x] Browser how it works
-     - [x] DNS and how it works
-     - [x] What is a Domain Name
-     - [x] What is hosting 
+     - [x] [How does the internet work](#1-How-does-the-internet-work)
+     - [x] [What is a programming language](#2-What-is-a-programming-language)
+     - [x] [What is Editor](#3-What-is-Editor)
+     - [x] [What is HTTP](#4-What-is-HTTP)
+     - [x] [Browser how it works](#5-Browser-how-it-works)
+     - [x] [DNS and how it works](#6-DNS-and-how-it-works)
+     - [x] [What is a Domain Name](7-What-is-a-Domain-Name)
+     - [x] [What is hosting](#8-What-is-hosting)
 - [You should know some about frontend ](#You-should-know-some-about-frontend )
-     - [x] HTML
-     - [x] CSS3
-     - [x] JavaScript
+     - [x] [HTML]()
+     - [x] [CSS3]()
+     - [x] [JavaScript]()
 - [You should know this before learning the backend language](#You-should-know-this-before-learning-the-backend-language)
-     - [x] How do operating systems work
-     - [x] What is terminal
-     - [x] CMD commands you should know
+     - [x] [How do operating systems work]()
+     - [x] [What is terminal]()
+     - [x] [CMD commands you should know]()
 
 - [Learn a programming language and her framework](#Learn-a-programming-language-and-her-framework)
-     - [x] Python (Django)
-     - [ ] PHP (Laravel)
-     - [ ] Javascript (Node.js)
-     - [ ] Java (Spring)
-     -  Ruby (Roda)
-     -  C# (.Net)
+     - [x] [Python (Django)]()
+     - [ ] [PHP (Laravel)]()
+     - [ ] [Javascript (Node.js)]()
+     - [ ] [Java (Spring)]()
+     -  [Ruby (Roda)]()
+     -  [C# (.Net)]()
 
 - [After that you should add your projects on GitHub](#After-that-you-should-add-your-projects-on-GitHub)
      - [x] [What is Gitbub](#1-What-is-Gitbub)
-     - [x] What is Git
-     - [x] Learn Git
+     - [x] [What is Git](#2-What-is-Git)
+     - [x] [Learn Git](#3-Learn-Git)
 
 - [Take a look at these and back again after learning about database](#Take-a-look-at-these-and-back-again-after-learning-about-database)
-     - [x] What is REST API
-     - [x] What is SOAP
-     - [x] ACID database meaning
-     - What is an ORM
-     - What is a database transaction
-     - N+1 selects problem in ORM
-     - What is Database Normalization
-     - What is Data Replication
-     - [x] How Sharding Works
-     - [x] What is the CAP theorem
+     - [x] [What is REST API]()
+     - [x] [What is SOAP]()
+     - [x] [ACID database meaning]()
+     - [What is an ORM]()
+     - [What is a database transaction]()
+     - [N+1 selects problem in ORM]()
+     - [What is Database Normalization]()
+     - [What is Data Replication]()
+     - [x] [How Sharding Works]()
+     - [x] [What is the CAP theorem]()
 
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
      - [x] Relational Database
@@ -61,21 +61,21 @@
           - DynamoDB
             
 - [Take a look at these](#Take-a-look-at-these)
-   - [x] Authentication
-   - [x] GraphQl
-   - [x] HTTPS
-   - [x] SSL\TLS
-   - [x] Hashing Algorithm
+   - [x] [Authentication]()
+   - [x] [GraphQl]()
+   - [x] [HTTPS]()
+   - [x] [SSL\TLS]()
+   - [x] [Hashing Algorithm]()
 - [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
 
-  - [x] Integration Testing 
-  - [x] Unit Testing
-  - [x] Functional Testing
+  - [x] [Integration Testing]()
+  - [x] [Unit Testing]()
+  - [x] [Functional Testing]()
 
 
 ## What is the work environment in which you work?
 
-### 1- How does the internet work :
+### 1-How does the internet work :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=99yxGabo-XE)
@@ -83,68 +83,68 @@
   - How Does The Internet Work: [Read from Medium](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8)
 
 
-### 2- What is a programming language :
+### 2-What is a programming language :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=EGQh5SZctaE)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=VPtapGzSScU&t=1129s)
 - Articles
   -  What is a programming language : [Read from medium](https://posco.medium.com/what-is-a-programming-language-community-and-what-does-it-value-faa5b84c065a)
 
-### 3- What is Editor : 
+### 3-What is Editor : 
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=EQ5Rc4DFp4M)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=3uBCZOGbUIA)
 - Articles
    - What are Editors [Read from geeksforgeeks](https://www.geeksforgeeks.org/editors-types-system-programming/)
      
-### 4- What is HTTP :
+### 4-What is HTTP :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=wW2A5SZ3GkI)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=CtPWdpi4g6U)
 - Articles
    - What is HTTP [Read from medium](https://medium.com/@ahmadfarag/http-in-depth-dfdac806c2c0)
 
-### 5- Browser how it works : 
+### 5-Browser how it works : 
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=OrFldZVa8Go)
 - Articles
    - Browser how it works [Read from medium](https://medium.com/@pdster/how-web-browsers-work-6385b9374375)
 
-### 6- DNS and how it works : 
+### 6-DNS and how it works : 
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=nyH0nYhMW9M)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=7Xxp2NY85ao)
 - Articles
    - DNS and how it works [Read from medium](https://medium.com/basic-command-ls-linux/how-dns-works-b49c7395c91e)
 
-### 7- What is Domain Name :
+### 7-What is a Domain Name :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=Y4cRx19nhJk)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=Nqc-k6GwgKI)
 - Articles
    - What is Domain Name [Read from medium](https://mayankavasthi.medium.com/what-is-a-domain-name-and-web-hosting-4dd89d6304e)
-### 8- What is hosting :
+### 8-What is hosting :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=d_pEqS9Ynxc)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=GFwcrCQukHU)
 - Articles
    - What is hosting [Read from medium](https://medium.com/@singularbean/what-is-web-hosting-9f30c43bf123)
 ## You should know some about frontend 
-### 1- HTML :
+### 1-HTML :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 - Articles
   - learn HTML: [Read from w3schools](https://www.w3schools.com/html/)
-### 2- CSS :
+### 2-CSS :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=OXGznpKZ_sA&pp=ygUKY291cnNlIGNzcw%3D%3D)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 - Articles
   - learn CSS: [Read from w3schools](https://www.w3schools.com/css/)
 
-### 2- Javascript :
+### 2-Javascript :
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s&pp=ygUJY291cnNlIGpz)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=eKuNnpWhm7c&list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh)
@@ -152,21 +152,21 @@
   - learn CSS: [Read from w3schools](https://www.w3schools.com/js/)
 
 ## You should know this before learning the backend language
-### 1- How do operating systems work
+### 1-How do operating systems work
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=GjNp0bBrjmU)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=yNM78IaK1YM)
 - Articles
   - How to do operating systems work: [Read from medium](https://medium.com/@demozeik/introduction-to-operating-system-3274f0ff947d)
   - 
-### 2- What is terminal
+### 2-What is terminal
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=AbjJDAiNYXs)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=CH6zJh4spyM)
 - Articles
   - What is terminal : [Read from medium](https://medium.com/front-end-weekly/a-quick-guide-to-use-command-line-terminal-ac52c2c442df)
 
-### 3- CMD commands you should know
+### 3-CMD commands you should know
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=MBBWVgE0ewk&list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=JVs2Ywy7wGQ&list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
@@ -175,7 +175,7 @@
 
  
 ## Learn a programming language and her framework
-### 1- Python and framework(Django)
+### 1-Python and framework(Django)
 #### - Python
 - Videos
   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc&pp=ygUNY291cnNlIHB5dGhvbg%3D%3D)
@@ -199,7 +199,7 @@
   - Learn Django Framework : [Read from w3schools](https://www.w3schools.com/django/)
   - paper : [I love django](https://ilovedjango.com/django/)
 
-### 2- PHP and framework(Laravel)
+### 2-PHP and framework(Laravel)
 #### - PHP
 - Videos
   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=m52ljs78S24&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih)
@@ -215,7 +215,7 @@
   - From ITI : [ITI](https://drive.google.com/drive/folders/17j1RpK9gVqk1_cE2a2HIu3QcQymxX_k9?usp=drive_link) 
 - Articles
   - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.in/laravel)
-### 3- Javascript and framework(Node.js)
+### 3-Javascript and framework(Node.js)
 #### - Javascript
 - Videos
   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=jS4aFq5-91M&pp=ygUJY291cnNlIGpz)
@@ -232,7 +232,7 @@
 - Articles
   - Learn Laravel Framework : [Read from w3schools](https://www.w3schools.com/nodejs/)
 
-### 4- Java and framework(Spring)
+### 4-Java and framework(Spring)
 #### - Java   
 - Videos
   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=aS__9RbCyHg)
@@ -248,11 +248,11 @@
 - Articles
   - Learn Spring Framework : [Read from tutorials point](https://www.tutorialspoint.com/spring_boot/index.htm)
 
-### 5- Ruby and framework(Roda)
+### 5-Ruby and framework(Roda)
 #### - Ruby
 #### - Roda Framework
 
-### 6- C# and framework(.Net)
+### 6-C# and framework(.Net)
 #### - C#
 #### - .Net Framework
 
@@ -265,13 +265,13 @@
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=PsXDzwBW2Ls)
 - Articles
   - What is Gitbub : [Read from medium](https://medium.com/swlh/what-is-github-423f9049ab2d)
-### 2- What is Git
+### 2-What is Git
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=wpISo9TNjfU)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=6apoMnNoPWk)
 - Articles
   - What is Git: [Read from medium](https://medium.com/free-code-camp/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
-### 3- Learn Git
+### 3-Learn Git
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=8JJ101D3knE&pp=ygUJTGVhcm4gR2l0)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=6143s&pp=ygUPV2hhdCBJcyBHaXRIdWI_)
@@ -279,70 +279,70 @@
   - Learn Git: [Read from medium](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
  
 ## Take a look at these and back again after learning about database
-### 1- What is REST API
+### 1-What is REST API
 - Videos
   - English : [YouTube Video](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=7dqpR70OfGw&t=14s)
 - Articles
   - What is REST API: [Read from medium](https://medium.com/@shifrb/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f)
     
-### 2- What is SOAP
+### 2-What is SOAP
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=it8ybkQuAh8)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=tGl4IqBOYaY)
 - Articles
   - What is SOAP: [Read from medium](https://medium.com/geekculture/understanding-soap-and-restful-web-services-a27ddcd4c3df)
     
-### 3- ACID database meaning
+### 3-ACID database meaning
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=pomxJOFVcQs)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=ZmwrnN73m5s)
 - Articles
   - ACID database meaning: [Read from medium](https://intuting.medium.com/acid-database-properties-6bc2b049ed2d)
     
-### 4- What is an ORM
+### 4-What is an ORM
 - Videos
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - What is an ORM: [Read from medium]()
     
-### 5- What is a database transaction
+### 5-What is a database transaction
 - Videos
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - What is a database transaction: [Read from medium]()
     
-### 6- N+1 selects problem in ORM
+### 6-N+1 selects problem in ORM
 - Videos
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - N+1 selects problem in ORM: [Read from medium]()
     
-### 7- What is Database Normalization
+### 7-What is Database Normalization
 - Videos
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   -  What is Database Normalization: [Read from medium]()
   
-### 8- What is Data Replication
+### 8-What is Data Replication
 - Videos
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - What is Data Replication: [Read from medium]()
   
-### 9- How Sharding Works
+### 9-How Sharding Works
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=XP98YCr-iXQ)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=16hYum8fPrI)
 - Articles
   - How Sharding Works: [Read from medium](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
   
-### 10- What is the CAP theorem
+### 10-What is the CAP theorem
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=eWMgsk7mpFc)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=RpqqX6mkSNQ)
@@ -365,35 +365,35 @@
 </p>
 
 ## Take a look at these
-### 1- Authentication
+### 1-Authentication
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=2PPSXonhIck)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=WEoGhVhuzDU)
 - Articles
   - Authentication: [Read from medium](https://medium.com/@itsmeakhil/understanding-about-web-authentication-methods-ccae46734108)
     
-### 2- GraphQl
+### 2-GraphQl
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=5199E50O7SI)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=B_r_REcIO8g)
 - Articles
   - GraphQl: [Read from documentation](https://graphql.org/learn/)
     
-### 3- HTTPS
+### 3-HTTPS
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=hExRDVZHhig)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=qEUBlIKHj_M&t=16s)
 - Articles
   - HTTPS: [Read from medium](https://medium.com/swlh/how-http-and-https-work-4c689e1ea369)
     
-### 4- SSL\TLS
+### 4-SSL\TLS
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=LJDsdSh1CYM)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=_rckaPRsD_0)
 - Articles
   - SSL\TLS: [Read from medium](https://medium.com/talpor/ssl-tls-authentication-explained-86f00064280)
     
-### 5- Hashing Algorithm
+### 5-Hashing Algorithm
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=ipljtD-ZdQ4)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=sJKRbBRZK9o)
@@ -401,14 +401,14 @@
   - Hashing Algorithm: [Read from medium](https://medium.com/@isuruj/introduction-to-hashing-5b4daf343889)
 
 ## The final step after making all the steps you should make testing
-### 1- Integration Testing
+### 1-Integration Testing
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=8UfQ8quw0Eg)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=D0PqgXsBX5g&list=PLQUxWr2rTswl1D4f8Tkw3RvCD-ZB6LpgJ)
 - Articles
   - Integration Testing: [Read from medium](https://medium.com/@allenliuzihao/automated-integration-testing-a295d21e513a)
     
-### 2- Unit Testing
+### 2-Unit Testing
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=iWtxEDE1IR4)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=B9rLLcVQfpI&t=190s)
@@ -416,7 +416,7 @@
 - Articles
   - Unit Testing: [Read from medium](https://medium.com/android-news/basics-of-unit-testing-affdd2273310)
     
-### 3- Functional Testing
+### 3-Functional Testing
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=10GMNDOjpYU)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=fk3sL-VDrCI&list=PLQUxWr2rTswl1D4f8Tkw3RvCD-ZB6LpgJ&index=13)
