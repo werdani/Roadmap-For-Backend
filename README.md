@@ -24,7 +24,7 @@
      - [x] Python (Django)
      - [ ] PHP (Laravel)
      - [ ] Javascript (Node.js)
-     -  Java (Spring)
+     - [ ] Java (Spring)
      -  Ruby (Roda)
      -  C# (.Net)
 
