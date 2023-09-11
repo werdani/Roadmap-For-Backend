@@ -29,7 +29,7 @@
      -  C# (.Net)
 
 - [After that you should add your projects on GitHub](#After-that-you-should-add-your-projects-on-GitHub)
-     - [x] What is Gitbub
+     - [x] [What is Gitbub](#What-is-Git)
      - [x] What is Git
      - [x] Learn Git
 
