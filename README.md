@@ -12,9 +12,9 @@
      - [x] [What is a Domain Name](#7-What-is-a-Domain-Name)
      - [x] [What is hosting](#8-What-is-hosting)
 - [You should know some about frontend ](#You-should-know-some-about-frontend )
-     - [x] [HTML]()
-     - [x] [CSS3]()
-     - [x] [JavaScript]()
+     - [x] [HTML](#1-HTML)
+     - [x] [CSS3](#2-CSS3)
+     - [x] [JavaScript](#3-JavaScript)
 - [You should know this before learning the backend language](#You-should-know-this-before-learning-the-backend-language)
      - [x] [How do operating systems work]()
      - [x] [What is terminal]()
@@ -144,7 +144,7 @@
 - Articles
   - learn CSS: [Read from w3schools](https://www.w3schools.com/css/)
 
-### 2-Javascript 
+### 3-Javascript 
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s&pp=ygUJY291cnNlIGpz)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=eKuNnpWhm7c&list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh)
