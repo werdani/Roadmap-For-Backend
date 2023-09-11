@@ -16,17 +16,17 @@
      - [x] [CSS3](#2-CSS3)
      - [x] [JavaScript](#3-JavaScript)
 - [You should know this before learning the backend language](#You-should-know-this-before-learning-the-backend-language)
-     - [x] [How do operating systems work]()
-     - [x] [What is terminal]()
-     - [x] [CMD commands you should know]()
+     - [x] [How do operating systems work](#1-How-do-operating-systems-work)
+     - [x] [What is terminal](#2-What-is-terminal)
+     - [x] [CMD commands you should know](#3-CMD-commands-you-should-know)
 
 - [Learn a programming language and her framework](#Learn-a-programming-language-and-her-framework)
-     - [x] [Python (Django)]()
-     - [ ] [PHP (Laravel)]()
-     - [ ] [Javascript (Node.js)]()
-     - [ ] [Java (Spring)]()
-     -  [Ruby (Roda)]()
-     -  [C# (.Net)]()
+     - [x] [Python (Django)](#1-Python-and-framework(Django))
+     - [ ] [PHP (Laravel)](#2-PHP-and-framework(Laravel))
+     - [ ] [Javascript (Node.js)](#\3-Javascript-and-framework(Node.js))
+     - [ ] [Java (Spring)](#4-Java-and-framework(Spring))
+     -  [Ruby (Roda)](#5-Ruby-and-framework(Roda))
+     -  [C# (.Net)](#6-C#-and-framework(.Net))
 
 - [After that you should add your projects on GitHub](#After-that-you-should-add-your-projects-on-GitHub)
      - [x] [What is Gitbub](#1-What-is-Gitbub)
@@ -61,16 +61,16 @@
           - DynamoDB
             
 - [Take a look at these](#Take-a-look-at-these)
-   - [x] [Authentication]()
-   - [x] [GraphQl]()
-   - [x] [HTTPS]()
-   - [x] [SSL\TLS]()
-   - [x] [Hashing Algorithm]()
+   - [x] [Authentication](#1-Authentication)
+   - [x] [GraphQl](#2-GraphQl)
+   - [x] [HTTPS](#3-HTTPS)
+   - [x] [SSL\TLS](#4-SSL\TLS)
+   - [x] [Hashing Algorithm](#5-Hashing-Algorithm)
 - [The final step after making all the steps you should make testing](#The-final-step-after-making-all-the-steps-you-should-make-testing)
 
-  - [x] [Integration Testing]()
-  - [x] [Unit Testing]()
-  - [x] [Functional Testing]()
+  - [x] [Integration Testing](#1-Integration-Testing)
+  - [x] [Unit Testing](#2-Unit-Testing)
+  - [x] [Functional Testing](#3-Functional-Testing)
 
 
 ## What is the work environment in which you work?
