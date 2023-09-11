@@ -26,7 +26,7 @@
      - [ ] [Javascript (Node.js)](#\3-Javascript-and-framework-Node.js)
      - [ ] [Java (Spring)](#4-Java-and-framework-Spring)
      -  [Ruby (Roda)](#5-Ruby-and-framework-Roda)
-     -  [C# (.Net)](#6-C#-and-framework-dotnet)
+     -  [C# (.Net)](#6-C-sharp-and-framework-dotnet)
 
 - [After that you should add your projects on GitHub](#After-that-you-should-add-your-projects-on-GitHub)
      - [x] [What is Gitbub](#1-What-is-Gitbub)
@@ -252,7 +252,7 @@
 #### - Ruby
 #### - Roda Framework
 
-### 6-C# and framework dotnet
+### 6-C sharp and framework dotnet
 #### - C#
 #### - .Net Framework
 
