@@ -259,7 +259,7 @@
 
 
 ## After that you should add your projects on GitHub
-### 1- What is Gitbub
+### 1-What is Gitbub
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=pBy1zgt0XPc)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=PsXDzwBW2Ls)
