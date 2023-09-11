@@ -232,7 +232,19 @@
 
 ### 4- Java and framework(Spring)
 #### - Java
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video]()
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  - From ITI : [ITI]() 
+- Articles
+  - Learn Java : [Read from w3schools]()
 #### - Spring Framework
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video]()
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video]()
+  
+- Articles
+  - Learn Laravel Framework : [Read from w3schools]()
 
 ### 5- Ruby and framework(Roda)
 #### - Ruby
