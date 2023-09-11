@@ -25,8 +25,8 @@
      - [ ] [PHP (Laravel)](#2-PHP-and-framework-Laravel)
      - [ ] [Javascript (Node.js)](#3-Javascript-and-framework-Nodedotjs)
      - [ ] [Java (Spring)](#4-Java-and-framework-Spring)
-     -  [Ruby (Roda)](#5-Ruby-and-framework-Roda)
-     -  [C# (.Net)](#6-C-sharp-and-framework-dotnet)
+     - [ ] [Ruby (Roda)](#5-Ruby-and-framework-Roda)
+     - [ ] [C# (.Net)](#6-C-sharp-and-framework-dotnet)
 
 - [After that you should add your projects on GitHub](#After-that-you-should-add-your-projects-on-GitHub)
      - [x] [What is Gitbub](#1-What-is-Gitbub)
@@ -250,11 +250,36 @@
 
 ### 5-Ruby and framework-Roda
 #### - Ruby
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=BYUXvl_6OAY&list=PLAqsB9gf_hQY6pwlIbht35wSytqezS-Sy)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=i4bNFlfcq1s)  
+  - From ITI : [ITI](https://drive.google.com/drive/folders/1HsW8aMgAlrJQ2AWu4XtOIVdetiLR-fVx?usp=drive_link)
+- Articles
+  - Learn Ruby : [Read from tutorials point](https://www.tutorialspoint.com/ruby/index.htm)
 #### - Roda Framework
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=W8zglFFFRMM)
+  
+- Articles
+  - Learn Roda Framework : [Read from documentation](https://roda.jeremyevans.net/documentation.html)
+  - Learn Roda Framework : [Read from roda-community](https://www.roda-community.org/documentation/Quickstart.html)
 
 ### 6-C sharp and framework dotnet
 #### - C#
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=CxGTRLkXUYg&list=PLqPejUavRNTWrbmE7fTvBC1HH-sAmz7c3)
+  
+- Articles
+  - Learn C# : [Read from w3schools](https://www.w3schools.com/cs/index.php)
+    
 #### - .Net Framework
+- Videos
+  - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=hZ1DASYd9rk)
+  - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=yzdBBLuATQQ&list=PLP031NiNbUSTBSHuYoyCG69Zn1IIm6qmY)
+  
+- Articles
+  - Learn .Net Framework : [Read from documentation](https://learn.microsoft.com/en-us/contribute/content/dotnet/dotnet-contribute)
 
 
 
