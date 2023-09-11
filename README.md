@@ -252,7 +252,7 @@
 #### - Ruby
 #### - Roda Framework
 
-### 6-C# and framework-dotnet
+### 6-C# and framework dotnet
 #### - C#
 #### - .Net Framework
 
