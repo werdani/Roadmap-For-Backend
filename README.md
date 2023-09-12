@@ -330,7 +330,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - What is an ORM: [Read from medium]()
+  - What is an ORM: [Read from medium](https://medium.com/swlh/what-is-orm-and-reasons-for-implementation-21932a554a28)
     
 ### 5-What is a database transaction
 - Videos
