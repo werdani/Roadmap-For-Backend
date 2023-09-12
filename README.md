@@ -34,16 +34,16 @@
      - [x] [Learn Git](#3-Learn-Git)
 
 - [Take a look at these and back again after learning about database](#Take-a-look-at-these-and-back-again-after-learning-about-database)
-     - [x] [What is REST API]()
-     - [x] [What is SOAP]()
-     - [x] [ACID database meaning]()
-     - [What is an ORM]()
-     - [What is a database transaction]()
-     - [N+1 selects problem in ORM]()
-     - [What is Database Normalization]()
-     - [What is Data Replication]()
-     - [x] [How Sharding Works]()
-     - [x] [What is the CAP theorem]()
+     - [x] [What is REST API](#1-What-is-REST-API)
+     - [x] [What is SOAP](#2-What-is-SOAP)
+     - [x] [ACID database meaning](#3-ACID-database-meaning)
+     - [x] [What is an ORM](#4-What-is-an-ORM)
+     - [What is a database transaction](#5-What-is-a-database-transaction)
+     - [N+1 selects problem in ORM](#6-Nplus1-selects-problem-in-ORM)
+     - [What is Database Normalization](#7-What-is-Database-Normalization)
+     - [What is Data Replication](#8-What-is-Data-Replication)
+     - [x] [How Sharding Works](#9-How-Sharding-Works)
+     - [x] [What is the CAP theorem](#10-What-is-the-CAP-theorem)
 
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
      - [x] Relational Database
@@ -269,6 +269,7 @@
 - Videos
   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=GhQdlIFylQ8)
   - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=CxGTRLkXUYg&list=PLqPejUavRNTWrbmE7fTvBC1HH-sAmz7c3)
+  - From ITI : [ITI](https://www.youtube.com/watch?v=cCJQe1RGm-I&list=PLesfn4TAj57XLhtaF9ZS_z0dOKQPXKMcE&pp=iAQB) 
   
 - Articles
   - Learn C# : [Read from w3schools](https://www.w3schools.com/cs/index.php)
@@ -277,6 +278,7 @@
 - Videos
   - English &nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=hZ1DASYd9rk)
   - Arabic &nbsp;&nbsp;&nbsp;: [YouTube Video](https://www.youtube.com/watch?v=yzdBBLuATQQ&list=PLP031NiNbUSTBSHuYoyCG69Zn1IIm6qmY)
+  - From ITI : [ITI](https://www.youtube.com/watch?v=tIXbua3zqU8&list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&pp=iAQB) 
   
 - Articles
   - Learn .Net Framework : [Read from documentation](https://learn.microsoft.com/en-us/contribute/content/dotnet/dotnet-contribute)
@@ -339,7 +341,7 @@
 - Articles
   - What is a database transaction: [Read from medium]()
     
-### 6-N+1 selects problem in ORM
+### 6-Nplus1 selects problem in ORM
 - Videos
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
