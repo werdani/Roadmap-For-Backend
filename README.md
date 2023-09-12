@@ -328,7 +328,7 @@
 ### 4-What is an ORM
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=XBpTmjpdkjU)
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/playlist?list=PLesfn4TAj57UlXgFOVxqdn-WPqfVg7hJ9)
 - Articles
   - What is an ORM: [Read from medium](https://medium.com/swlh/what-is-orm-and-reasons-for-implementation-21932a554a28)
     
