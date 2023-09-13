@@ -38,7 +38,7 @@
      - [x] [What is SOAP](#2-What-is-SOAP)
      - [x] [ACID database meaning](#3-ACID-database-meaning)
      - [x] [What is an ORM](#4-What-is-an-ORM)
-     - [What is a database transaction](#5-What-is-a-database-transaction)
+     - [x] [What is a database transaction](#5-What-is-a-database-transaction)
      - [N+1 selects problem in ORM](#6-Nplus1-selects-problem-in-ORM)
      - [What is Database Normalization](#7-What-is-Database-Normalization)
      - [What is Data Replication](#8-What-is-Data-Replication)
