@@ -49,7 +49,7 @@
      - [x] Relational Database
           - MySQL
           - MariaDB
-          - Postgre SQL
+          - PostgreSQL
           - MS SQL
           - Oracle
        
