@@ -339,7 +339,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - What is a database transaction: [Read from medium]()
+  - What is a database transaction: [Read from medium](https://medium.com/@sanskar.agrawal20/what-is-a-database-transaction-92cc5aa32a59)
     
 ### 6-Nplus1 selects problem in ORM
 - Videos
