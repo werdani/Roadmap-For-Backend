@@ -344,7 +344,7 @@
 ### 6-Nplus1 selects problem in ORM
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=mJrrJEIQxOQ)
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=w0KA9Hv7A5I)
 - Articles
   - N+1 selects problem in ORM: [Read from medium](https://medium.com/@sakibnajmus030/n-1-selects-problem-in-orm-object-relational-mapping-and-what-laravel-offers-to-fix-it-2cb24e48373e)
     
