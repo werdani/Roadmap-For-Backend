@@ -346,7 +346,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - N+1 selects problem in ORM: [Read from medium]()
+  - N+1 selects problem in ORM: [Read from medium](https://medium.com/@sakibnajmus030/n-1-selects-problem-in-orm-object-relational-mapping-and-what-laravel-offers-to-fix-it-2cb24e48373e)
     
 ### 7-What is Database Normalization
 - Videos
