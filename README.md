@@ -351,7 +351,7 @@
 ### 7-What is Database Normalization
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=xoTyrdT9SZI&list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3)
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=w9xsPcPBuLk&list=PLB8C3FC57C924A7D0)
 - Articles
   -  What is Database Normalization: [Read from medium](https://medium.com/swlh/normalization-of-database-the-easy-way-98f96a7a6863)
   
