@@ -357,7 +357,7 @@
   
 ### 8-What is Data Replication
 - Videos
-  - English : [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=bI8Ry6GhMSE)
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - What is Data Replication: [Read from medium](https://medium.com/@sandeep4.verma/data-replication-in-distributed-systems-part-1-13f52410faa3)
