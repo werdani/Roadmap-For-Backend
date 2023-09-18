@@ -40,7 +40,7 @@
      - [x] [What is an ORM](#4-What-is-an-ORM)
      - [x] [What is a database transaction](#5-What-is-a-database-transaction)
      - [x]  [N+1 selects problem in ORM](#6-Nplus1-selects-problem-in-ORM)
-     - [What is Database Normalization](#7-What-is-Database-Normalization)
+     - [x] [What is Database Normalization](#7-What-is-Database-Normalization)
      - [What is Data Replication](#8-What-is-Data-Replication)
      - [x] [How Sharding Works](#9-How-Sharding-Works)
      - [x] [What is the CAP theorem](#10-What-is-the-CAP-theorem)
