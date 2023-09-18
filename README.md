@@ -39,15 +39,15 @@
      - [x] [ACID database meaning](#3-ACID-database-meaning)
      - [x] [What is an ORM](#4-What-is-an-ORM)
      - [x] [What is a database transaction](#5-What-is-a-database-transaction)
-     - [x]  [N+1 selects problem in ORM](#6-Nplus1-selects-problem-in-ORM)
+     - [x] [N+1 selects problem in ORM](#6-Nplus1-selects-problem-in-ORM)
      - [x] [What is Database Normalization](#7-What-is-Database-Normalization)
-     - [What is Data Replication](#8-What-is-Data-Replication)
+     - [x] [What is Data Replication](#8-What-is-Data-Replication)
      - [x] [How Sharding Works](#9-How-Sharding-Works)
      - [x] [What is the CAP theorem](#10-What-is-the-CAP-theorem)
 
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
      - [x] Relational Database
-          - MySQL
+          - [ ] MySQL
           - MariaDB
           - PostgreSQL
           - MS SQL
