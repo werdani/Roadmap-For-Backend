@@ -388,7 +388,7 @@
 #### 1-MySQL 
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=DftlOK7fCtc&list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 - Articles
   - MySQL: [Read from medium](https://medium.com/cosc/complete-guide-to-mysql-part-1-bf22bc05cb29)
   
