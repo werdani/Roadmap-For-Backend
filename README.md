@@ -360,7 +360,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - What is Data Replication: [Read from medium]()
+  - What is Data Replication: [Read from medium](https://medium.com/@sandeep4.verma/data-replication-in-distributed-systems-part-1-13f52410faa3)
   
 ### 9-How Sharding Works
 - Videos
