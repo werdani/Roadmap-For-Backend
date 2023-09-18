@@ -353,7 +353,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  -  What is Database Normalization: [Read from medium]()
+  -  What is Database Normalization: [Read from medium](https://medium.com/swlh/normalization-of-database-the-easy-way-98f96a7a6863)
   
 ### 8-What is Data Replication
 - Videos
