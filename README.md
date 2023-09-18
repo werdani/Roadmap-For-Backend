@@ -46,8 +46,8 @@
      - [x] [What is the CAP theorem](#10-What-is-the-CAP-theorem)
 
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
-     - [x] Relational Database
-          - [ ] MySQL
+     - [x] [Relational Database](#1-Relational-Database)
+          - [x] [MySQL](#1-MySQL)
           - MariaDB
           - PostgreSQL
           - MS SQL
@@ -378,7 +378,7 @@
   
 
 ## You should know Database and the differences it
-### 1- Relational Database
+### 1-Relational Database
 <p>
      A relational database is a type of database that stores and provides access to data points that are related to one another. Relational databases are based on the relational model, an intuitive,      
      straightforward way of representing data in tables. In a relational database, each row in the table is a record with a unique ID called the key. The columns of the table hold attributes of the data, and 
