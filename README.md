@@ -394,7 +394,7 @@
   
 #### 2-MariaDB  
 - Videos
-  - English : [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/playlist?list=PL3bGLnkkGnuUOB9YjjVDty6aCJApvkw8O)
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - MariaDB: [Read from medium](https://medium.com/@martadiez/mariadb-417998d9f780)
