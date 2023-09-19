@@ -48,7 +48,7 @@
 - [You should know Database and the differences it](#You-should-know-Database-and-the-differences-it)
      - [x] [Relational Database](#1-Relational-Database)
           - [x] [MySQL](#1-MySQL)
-          - MariaDB
+          - [ ] [MariaDB](#2-MariaDB)
           - PostgreSQL
           - MS SQL
           - Oracle
