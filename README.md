@@ -392,7 +392,13 @@
 - Articles
   - MySQL: [Read from medium](https://medium.com/cosc/complete-guide-to-mysql-part-1-bf22bc05cb29)
   
-#### 2-MariaDB         
+#### 2-MariaDB  
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - MariaDB: [Read from medium]()
+
 #### 3-PostgreSQL
 #### 4-MS SQL
 #### 5-Oracle
