@@ -397,7 +397,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - MariaDB: [Read from medium]()
+  - MariaDB: [Read from medium](https://medium.com/@martadiez/mariadb-417998d9f780)
 
 #### 3-PostgreSQL
 #### 4-MS SQL
