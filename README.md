@@ -53,9 +53,9 @@
           - MS SQL
           - Oracle
        
-     - [x] NoSQL Database
+     - [x] [NoSQL Database](#2-Non-Relational-Database(NoSQL))
 
-          - MongoDB
+          - [x] [MongoDB](#1-MongoDB)
           - RethinkDB
           - CouchDB
           - DynamoDB
@@ -403,7 +403,7 @@
 #### 4-MS SQL
 #### 5-Oracle
 
-### 2- Non-Relational Database(NoSQL) 
+### 2-Non-Relational Database(NoSQL) 
 <p>
      Non-relational databases (often called NoSQL databases) are different from traditional relational databases in that they store their data in a non-tabular form. Instead, non-relational databases might be        based on data structures like documents. A document can be highly detailed while containing a range of different types of information in different formats. This ability to digest and organize various types 
      of information side by side makes non-relational databases much more flexible than relational databases.
