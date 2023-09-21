@@ -417,6 +417,12 @@
   - MongoDB: [Read from medium](https://medium.com/free-code-camp/learn-mongodb-a4ce205e7739)
     
 #### 2- RethinkDB
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - RethinkDB: [Read from medium]()
+
 #### 3- CouchDB
 #### 4- DynamoDB
 
