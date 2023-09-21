@@ -418,7 +418,7 @@
     
 #### 2- RethinkDB
 - Videos
-  - English : [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=pW3PFtchHDc)
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - RethinkDB: [Read from documentation](https://rethinkdb.com/docs)
