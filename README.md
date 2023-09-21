@@ -421,7 +421,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - RethinkDB: [Read from medium]()
+  - RethinkDB: [Read from documentation](https://rethinkdb.com/docs)
 
 #### 3- CouchDB
 #### 4- DynamoDB
