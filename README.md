@@ -56,7 +56,7 @@
      - [x] [NoSQL Database](#2-Non-Relational-Database-NoSQL)
 
           - [x] [MongoDB](#1-MongoDB)
-          - RethinkDB
+          - [ ] RethinkDB
           - CouchDB
           - DynamoDB
             
