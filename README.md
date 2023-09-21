@@ -412,7 +412,7 @@
 #### 1-MongoDB
 - Videos
   - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5&si=_Q7BLoTsY-k8-g3_)
 - Articles
   - MongoDB: [Read from medium](https://medium.com/free-code-camp/learn-mongodb-a4ce205e7739)
     
