@@ -416,15 +416,15 @@
 - Articles
   - MongoDB: [Read from medium](https://medium.com/free-code-camp/learn-mongodb-a4ce205e7739)
     
-#### 2- RethinkDB
+#### 2-RethinkDB
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=pW3PFtchHDc)
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
   - RethinkDB: [Read from documentation](https://rethinkdb.com/docs)
 
-#### 3- CouchDB
-#### 4- DynamoDB
+#### 3-CouchDB
+#### 4-DynamoDB
 
 ## Take a look at these
 ### 1-Authentication
