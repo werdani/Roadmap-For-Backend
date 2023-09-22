@@ -400,6 +400,12 @@
   - MariaDB: [Read from medium](https://medium.com/@martadiez/mariadb-417998d9f780)
 
 #### 3-PostgreSQL
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - PostgreSQL: [Read from medium]()
+    
 #### 4-MS SQL
 #### 5-Oracle
 
