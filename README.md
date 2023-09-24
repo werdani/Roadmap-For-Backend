@@ -411,7 +411,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - MSSQL: [Read from medium]()
+  - MSSQL: [Read from medium](https://medium.com/@toprak.mhmt/what-is-mssql-9a152d7d4ed0)
     
 #### 5-Oracle
 
