@@ -49,7 +49,7 @@
      - [x] [Relational Database](#1-Relational-Database)
           - [x] [MySQL](#1-MySQL)
           - [ ] [MariaDB](#2-MariaDB)
-          - PostgreSQL
+          - [ ] [PostgreSQL](#3-PostgreSQL)
           - MS SQL
           - Oracle
        
