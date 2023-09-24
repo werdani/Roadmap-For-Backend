@@ -404,7 +404,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - PostgreSQL: [Read from medium]()
+  - PostgreSQL: [Read from medium](https://medium.com/@murat.ozeee/postgresql-from-basic-to-advance-1-b78d0a23a620)
     
 #### 4-MS SQL
 #### 5-Oracle
