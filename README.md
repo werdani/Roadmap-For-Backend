@@ -408,7 +408,7 @@
     
 #### 4-MSSQL
 - Videos
-  - English : [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=JTDK6r1GuUU)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 - Articles
   - MSSQL: [Read from medium](https://medium.com/@toprak.mhmt/what-is-mssql-9a152d7d4ed0)
