@@ -402,7 +402,7 @@
 #### 3-PostgreSQL
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=qw--VYLpxG4&t=10s&pp=ygUKUG9zdGdyZVNRTA%3D%3D)
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=jM5xXx2SyyI&list=PLhiFu-f80eo_90Mx37BzcIl9UJCNfEdQ_)
 - Articles
   - PostgreSQL: [Read from medium](https://medium.com/@murat.ozeee/postgresql-from-basic-to-advance-1-b78d0a23a620)
     
