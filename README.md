@@ -158,7 +158,7 @@
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=yNM78IaK1YM)
 - Articles
   - How to do operating systems work: [Read from medium](https://medium.com/@demozeik/introduction-to-operating-system-3274f0ff947d)
-  - 
+    
 ### 2-What is terminal
 - Videos
   - English : [YouTube Video](https://www.youtube.com/watch?v=AbjJDAiNYXs)
