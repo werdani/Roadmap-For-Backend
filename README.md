@@ -443,7 +443,7 @@
 #### 3-CouchDB
 - Videos
   - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=MZZNZhAoIAo)
 - Articles
   - CouchDB: [Read from documentation](https://medium.com/@glynn_bird/couchdb-and-the-data-warehouse-506b8ce81674)
 #### 4-DynamoDB
