@@ -442,7 +442,7 @@
 
 #### 3-CouchDB
 - Videos
-  - English : [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/playlist?list=PLillGF-RfqbajZ-TvJCYRQEAE4VzTX3cn)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=MZZNZhAoIAo)
 - Articles
   - CouchDB: [Read from documentation](https://medium.com/@glynn_bird/couchdb-and-the-data-warehouse-506b8ce81674)
