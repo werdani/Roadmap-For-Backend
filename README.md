@@ -418,7 +418,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - MSSQL: [Read from medium]()
+  - Oracle: [Read from netapp](https://www.netapp.com/oracle/what-is-oracle-database/)
 
 ### 2-Non-Relational Database-NoSQL 
 <p>
