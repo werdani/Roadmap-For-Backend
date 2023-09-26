@@ -57,7 +57,7 @@
 
           - [x] [MongoDB](#1-MongoDB)
           - [ ] [RethinkDB](#2-RethinkDB)
-          - [ ] CouchDB
+          - [ ] [CouchDB](#3-CouchDB)
           - DynamoDB
             
 - [Take a look at these](#Take-a-look-at-these)
