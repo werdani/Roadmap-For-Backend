@@ -445,7 +445,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - CouchDB: [Read from documentation]()
+  - CouchDB: [Read from documentation](https://medium.com/@glynn_bird/couchdb-and-the-data-warehouse-506b8ce81674)
 #### 4-DynamoDB
 
 ## Take a look at these
