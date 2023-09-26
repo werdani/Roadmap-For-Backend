@@ -441,6 +441,11 @@
   - RethinkDB: [Read from documentation](https://rethinkdb.com/docs)
 
 #### 3-CouchDB
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - CouchDB: [Read from documentation]()
 #### 4-DynamoDB
 
 ## Take a look at these
