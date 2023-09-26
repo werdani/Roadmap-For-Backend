@@ -415,7 +415,7 @@
     
 #### 5-Oracle
 - Videos
-  - English : [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/watch?v=QHYuuXPdQNM&list=PL_c9BZzLwBRJ8f9-pSPbxSSG6lNgxQ4m9)
   - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=AGsKfeHM5VI&list=PL1KA7P5hJ-obwTDetMyuMNUzkwTm-M6tG)
 - Articles
   - Oracle: [Read from netapp](https://www.netapp.com/oracle/what-is-oracle-database/)
