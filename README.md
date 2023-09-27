@@ -447,6 +447,11 @@
 - Articles
   - CouchDB: [Read from documentation](https://medium.com/@glynn_bird/couchdb-and-the-data-warehouse-506b8ce81674)
 #### 4-DynamoDB
+- Videos
+  - English : [YouTube Video]()
+  - Arabic &nbsp;: [YouTube Video]()
+- Articles
+  - DynamoDB: [Read from documentation]()
 
 ## Take a look at these
 ### 1-Authentication
