@@ -451,7 +451,7 @@
   - English : [YouTube Video]()
   - Arabic &nbsp;: [YouTube Video]()
 - Articles
-  - DynamoDB: [Read from documentation]()
+  - DynamoDB: [Read from documentation](https://medium.com/tensult/core-concepts-of-amazon-dynamodb-a265a3fc70a)
 
 ## Take a look at these
 ### 1-Authentication
