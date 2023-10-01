@@ -58,7 +58,7 @@
           - [x] [MongoDB](#1-MongoDB)
           - [ ] [RethinkDB](#2-RethinkDB)
           - [ ] [CouchDB](#3-CouchDB)
-          - [DynamoDB](#4-DynamoDB)
+          - [ ] [DynamoDB](#4-DynamoDB)
             
 - [Take a look at these](#Take-a-look-at-these)
    - [x] [Authentication](#1-Authentication)
@@ -201,7 +201,7 @@
 - Django REST framework
   - Documentation : [Read from documentation](https://www.django-rest-framework.org/)
   - English Video : [YouTube Video](https://www.youtube.com/playlist?list=PLEt8Tae2spYlosWRH9JDpKNxzb3bSOJGx)
-  - Arabic &nbsp; Video : [YouTube Video](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
+  - Arabic Video &nbsp;  : [YouTube Video](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
 
 ### 2-PHP and framework-Laravel
 #### - PHP
