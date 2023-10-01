@@ -200,7 +200,7 @@
   - paper : [I love django](https://ilovedjango.com/django/)
 - Django REST framework
   - Documentation : [Read from documentation](https://www.django-rest-framework.org/)
-  - English Video : [YouTube Video]()
+  - English Video : [YouTube Video](https://www.youtube.com/playlist?list=PLEt8Tae2spYlosWRH9JDpKNxzb3bSOJGx)
   - Arabic &nbsp; Video : [YouTube Video](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
 
 ### 2-PHP and framework-Laravel
@@ -452,8 +452,8 @@
   - CouchDB: [Read from documentation](https://medium.com/@glynn_bird/couchdb-and-the-data-warehouse-506b8ce81674)
 #### 4-DynamoDB
 - Videos
-  - English : [YouTube Video]()
-  - Arabic &nbsp;: [YouTube Video]()
+  - English : [YouTube Video](https://www.youtube.com/playlist?list=PL9nWRykSBSFi5QD8ssI0W5odL9S0309E2)
+  - Arabic &nbsp;: [YouTube Video](https://www.youtube.com/watch?v=5onwgLgmdr4)
 - Articles
   - DynamoDB: [Read from documentation](https://medium.com/tensult/core-concepts-of-amazon-dynamodb-a265a3fc70a)
 
