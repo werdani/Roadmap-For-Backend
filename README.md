@@ -58,7 +58,7 @@
           - [x] [MongoDB](#1-MongoDB)
           - [ ] [RethinkDB](#2-RethinkDB)
           - [ ] [CouchDB](#3-CouchDB)
-          - DynamoDB
+          - [DynamoDB](#4-DynamoDB)
             
 - [Take a look at these](#Take-a-look-at-these)
    - [x] [Authentication](#1-Authentication)
