@@ -198,6 +198,8 @@
   - Documentation : [Read from documentation](https://docs.djangoproject.com/en/4.2/)
   - Learn Django Framework : [Read from w3schools](https://www.w3schools.com/django/)
   - paper : [I love django](https://ilovedjango.com/django/)
+- Django REST framework
+  - Documentation : [Read from documentation](https://www.django-rest-framework.org/)
 
 ### 2-PHP and framework-Laravel
 #### - PHP
