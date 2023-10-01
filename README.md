@@ -201,7 +201,7 @@
 - Django REST framework
   - Documentation : [Read from documentation](https://www.django-rest-framework.org/)
   - English Video : [YouTube Video]()
-  - Arabic Video&nbsp;: [YouTube Video]()
+  - Arabic &nbsp; Video : [YouTube Video](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
 
 ### 2-PHP and framework-Laravel
 #### - PHP
