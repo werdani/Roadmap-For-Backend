@@ -200,6 +200,8 @@
   - paper : [I love django](https://ilovedjango.com/django/)
 - Django REST framework
   - Documentation : [Read from documentation](https://www.django-rest-framework.org/)
+  - English Video : [YouTube Video]()
+  - Arabic Video&nbsp;: [YouTube Video]()
 
 ### 2-PHP and framework-Laravel
 #### - PHP
