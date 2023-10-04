@@ -14,7 +14,7 @@
      - [x] [DNS and how it works](#6-DNS-and-how-it-works)
      - [x] [What is a Domain Name](#7-What-is-a-Domain-Name)
      - [x] [What is hosting](#8-What-is-hosting)
-- [You should know some about frontend ](#You-should-know-some-about-frontend )
+- [You should know some about frontend ](#You-should-know-some-about-frontend)
      - [x] [HTML](#1-HTML)
      - [x] [CSS3](#2-CSS3)
      - [x] [JavaScript](#3-JavaScript)
